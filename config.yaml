@@ -1,0 +1,10 @@
+path: C:\Users\Aksayaa\OneDrive\Desktop\SafetyGear_v12\Accident_Detection\data  
+train: images/train  
+val: images/val  
+
+# Class names (Update based on your dataset)
+names:
+  0: helmet
+  1: no_helmet
+  2: accident
+  3: vehicle
